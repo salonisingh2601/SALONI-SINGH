@@ -1,4 +1,3 @@
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -17,7 +16,7 @@
 
 ###
 
-<h2 align="left">I code with<br>📊 Excel (Formulas, Pivot Tables, Charts)<br> 🐬 SQL (Data queries, joins, filtering)<br>📈 Tableau (Dashboards & data visualizations)</h2>
+<h2 align="left">Technical Skills<br>📊 Excel (Formulas, Pivot Tables, Charts)<br> 🐬 SQL (Data queries, joins, filtering)<br>📈 Tableau (Dashboards & data visualizations)</h2>
 
 ###
 
